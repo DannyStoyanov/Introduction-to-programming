@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Danny\source\repos\homework3\homework3\main.cpp(69,21): warning C4552: '+': result of expression not used
+  homework3.vcxproj -> C:\Users\Danny\source\repos\homework3\Debug\homework3.exe
