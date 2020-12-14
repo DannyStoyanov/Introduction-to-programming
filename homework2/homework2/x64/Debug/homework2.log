@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Danny\source\repos\homework2\homework2\main.cpp(196,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danny\source\repos\homework2\homework2\main.cpp(196,44): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Danny\source\repos\homework2\homework2\main.cpp(200,23): warning C4018: '>=': signed/unsigned mismatch
+  homework2.vcxproj -> C:\Users\Danny\source\repos\homework2\x64\Debug\homework2.exe
