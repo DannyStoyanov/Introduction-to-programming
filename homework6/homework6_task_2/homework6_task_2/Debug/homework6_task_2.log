@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Danny\source\repos\homework6_task_2\homework6_task_2\main.cpp(122,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Danny\source\repos\homework6_task_2\homework6_task_2\main.cpp(214,6): warning C4101: 'y': unreferenced local variable
+C:\Users\Danny\source\repos\homework6_task_2\homework6_task_2\main.cpp(213,6): warning C4101: 'x': unreferenced local variable
+  homework6_task_2.vcxproj -> C:\Users\Danny\source\repos\homework6_task_2\Debug\homework6_task_2.exe
