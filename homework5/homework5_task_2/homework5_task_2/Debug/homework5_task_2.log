@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Danny\source\repos\homework5_task_2\homework5_task_2\main.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Danny\source\repos\homework5_task_2\homework5_task_2\main.cpp(207,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danny\source\repos\homework5_task_2\homework5_task_2\main.cpp(215,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  homework5_task_2.vcxproj -> C:\Users\Danny\source\repos\homework5_task_2\Debug\homework5_task_2.exe
