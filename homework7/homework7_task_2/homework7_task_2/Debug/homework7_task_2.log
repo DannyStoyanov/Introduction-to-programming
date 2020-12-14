@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Danny\source\repos\homework7_task_2\homework7_task_2\main.cpp(6,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danny\source\repos\homework7_task_2\homework7_task_2\main.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danny\source\repos\homework7_task_2\homework7_task_2\main.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danny\source\repos\homework7_task_2\homework7_task_2\main.cpp(163,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Danny\source\repos\homework7_task_2\homework7_task_2\main.cpp(91): warning C4715: 'compareAndSwap': not all control paths return a value
+  homework7_task_2.vcxproj -> C:\Users\Danny\source\repos\homework7_task_2\Debug\homework7_task_2.exe
